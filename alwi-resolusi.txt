@@ -6,3 +6,11 @@ ALWI RESOLUSI di Tahun 2025
 - Dan juga bisa menjadikan Ilmu yg didapat bisa bermanfaat untk orang lain
 - Berkolaborasi dengan lebih banyak expert mengenai yg ingin di pelajari
 - Menambah wawasan juga dari sumber mengenai yang bersangkutan ingin dipelajari.
+
+hmm bener sih emang susah emng case nya kaya lu, saran gua balik lagi emng semuanya itu ga gampang / cepet sih gua jugaa masih banyak kurangnya bob padahal udh belajar lama dan nekunin satu itu buth waktu dan konsisten jadi jgn terlalu dipikirin ngalir aja ikutin flow nya coba hal2 dasar di materi kuliah yg berhubungan sama backend lu fokusin jadi gaperlu belajar dasar2 lgi mknya tadi gua coba suruh bljr php aja dulu / ga python dehh karena apa satu bahasa lu bisa Kuasain pindah ke bahasa lain gampang karena logika dasar nua sama + kalo udh ngusaian satu bahasa ya itu bakalan bisa kemana2 python aja dulu
+ya manajeme waktu lu gpp kok nyici2 pelan2 bob, masi panjang bob asal tiap hari ada progress mah kekejarr
+jadi gini mungkin sistemnya intinya lu belajar git/GitHub dulu buat apa? gimana cara makenya itu dlu aja
+kalo lu ngrasa perlu nonton full tutorial nya ya nonton
+tpi kalo lu ngerasa butuh yg pnting2nya aja ya lucari tau tuh searching aja apa yg dibutuhin agar bisa GitHub/git
+nah abis itu kelar semua lu dhtau segala macem, lu coba perdalem pyhton dulu
+lu latihan2 cari course atau soal tentang dasar2 yg pernah diajarin di semester 1
