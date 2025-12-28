@@ -16,3 +16,7 @@ tpi kalo lu ngerasa butuh yg pnting2nya aja ya lucari tau tuh searching aja apa 
 nah abis itu kelar semua lu dhtau segala macem, lu coba perdalem pyhton dulu
 lu latihan2 cari course atau soal tentang dasar2 yg pernah diajarin di semester 1
 
+LEARNING by DOING
+- PHP integrasi dengan framework CI3/Laravel
+- API 
+- Learn Testing
